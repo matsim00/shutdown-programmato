@@ -1,0 +1,3 @@
+@echo off
+echo Spegnimento del sistema in corso...
+shutdown /s /f /t 0
