@@ -4,7 +4,7 @@ Programma batch per lo spegnimento di windows
 
 modi di eseguirlo:
 - manuale ---> click destro sul programma shutdown.bat e click su "esegui come amministratore"
-  !!! ATTENZIONE, PRIMA DI ESEGUIRE IL PROGRAMMA ASSICURARSI DI AVER SALVATO EVENTUALI LAVORI !!!
+!!! ATTENZIONE, PRIMA DI ESEGUIRE IL PROGRAMMA ASSICURARSI DI AVER SALVATO EVENTUALI LAVORI !!!
 
 - programmato:
 
